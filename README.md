@@ -1,4 +1,4 @@
-# deco
+## HomeDeco App
 
 **React Native UX App**
 
